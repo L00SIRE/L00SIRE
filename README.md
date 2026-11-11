@@ -29,4 +29,4 @@ C++ · Python · TypeScript / JavaScript · Go · React / Next.js · React Nativ
 
 ---
 
-[sumandangal.com.np](https://www.sumandangal.com.np) · [LinkedIn](https://www.linkedin.com/in/suman-dangal-007np) · sumandangal007@gmail.com
+[sumandangal.com.np](https://www.sumandangal.com) · [LinkedIn](https://www.linkedin.com/in/suman-dangal-007np) · sumandangal007@gmail.com
